@@ -1,1 +1,1 @@
-# learning-computer-architectures-and-hpc-course
+# learning-computer-architectures-course
